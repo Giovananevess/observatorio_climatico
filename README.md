@@ -2,7 +2,7 @@
 
 Projeto acadêmico de coleta, tratamento, armazenamento e análise de dados históricos de Fernandópolis (SP), para apoiar moradores, agricultores e trabalhadores ao ar livre.
 
-> **Importante:** recorte e público-alvo provisórios, pois o planejamento AE1 original não foi fornecido. Confirme a continuidade com o trabalho anterior antes da entrega.
+> **Confirmação:** o planejamento da AE1 foi conferido. O recorte adota Fernandópolis (SP), o período de 01/10/2026 a 30/10/2026 e o público-alvo formado por moradores, agricultores e trabalhadores expostos ao calor e à chuva.
 
 ## Fonte e recorte
 
