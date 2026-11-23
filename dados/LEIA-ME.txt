@@ -1,0 +1,1 @@
+Execute coleta.py, banco.py e analise.py para gerar dados reais e indicadores. Nenhuma medição foi inventada.

@@ -1,0 +1,8 @@
+{
+  "temperatura_maxima_media_c": 30.82,
+  "precipitacao_total_mm": 117.2,
+  "dias_quentes_35c": 5,
+  "total_registros": 30,
+  "dias_com_dados_completos": 30,
+  "primeiras_linhas": "      data  temperatura_min_c  temperatura_max_c  precipitacao_mm\n2026-10-01               21.6               30.8              2.2\n2026-10-02               20.2               27.8              9.2\n2026-10-03               20.1               30.4             11.8\n2026-10-04               17.9               32.4             17.2\n2026-10-05               18.6               27.4              4.6"
+}

@@ -1,0 +1,13 @@
+{
+  "coletado_em_utc": "2026-11-23T19:13:36.360392+00:00",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-20.2833&longitude=-50.2467&start_date=2026-10-01&end_date=2026-10-30&daily=temperature_2m_min%2Ctemperature_2m_max%2Cprecipitation_sum&timezone=America%2FSao_Paulo",
+  "parametros": {
+    "latitude": -20.2833,
+    "longitude": -50.2467,
+    "start_date": "2026-10-01",
+    "end_date": "2026-10-30",
+    "daily": "temperature_2m_min,temperature_2m_max,precipitation_sum",
+    "timezone": "America/Sao_Paulo"
+  },
+  "fonte": "Open-Meteo Historical Weather API"
+}
